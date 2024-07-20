@@ -1,0 +1,13 @@
+C:/Users/Nicolas/Desktop/estudos codigos/flutter/pokemon_app/build/windows/x64/runner/Release/data/icudtl.dat
+C:/Users/Nicolas/Desktop/estudos codigos/flutter/pokemon_app/build/windows/x64/runner/Release/flutter_windows.dll
+C:/Users/Nicolas/Desktop/estudos codigos/flutter/pokemon_app/build/windows/x64/runner/Release/data/flutter_assets/AssetManifest.bin
+C:/Users/Nicolas/Desktop/estudos codigos/flutter/pokemon_app/build/windows/x64/runner/Release/data/flutter_assets/AssetManifest.bin.json
+C:/Users/Nicolas/Desktop/estudos codigos/flutter/pokemon_app/build/windows/x64/runner/Release/data/flutter_assets/AssetManifest.json
+C:/Users/Nicolas/Desktop/estudos codigos/flutter/pokemon_app/build/windows/x64/runner/Release/data/flutter_assets/FontManifest.json
+C:/Users/Nicolas/Desktop/estudos codigos/flutter/pokemon_app/build/windows/x64/runner/Release/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Nicolas/Desktop/estudos codigos/flutter/pokemon_app/build/windows/x64/runner/Release/data/flutter_assets/images/snorlax_sleep.png
+C:/Users/Nicolas/Desktop/estudos codigos/flutter/pokemon_app/build/windows/x64/runner/Release/data/flutter_assets/NOTICES
+C:/Users/Nicolas/Desktop/estudos codigos/flutter/pokemon_app/build/windows/x64/runner/Release/data/flutter_assets/NOTICES.Z
+C:/Users/Nicolas/Desktop/estudos codigos/flutter/pokemon_app/build/windows/x64/runner/Release/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/Nicolas/Desktop/estudos codigos/flutter/pokemon_app/build/windows/x64/runner/Release/data/flutter_assets/shaders/ink_sparkle.frag
+C:/Users/Nicolas/Desktop/estudos codigos/flutter/pokemon_app/build/windows/x64/runner/Release/data/app.so

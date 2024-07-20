@@ -1,0 +1,1 @@
+ C:\\Users\\Nicolas\\Desktop\\estudos\ codigos\\flutter\\pokemon_app\\.dart_tool\\flutter_build\\d615cab1241e79968b8736fddd208dc8\\native_assets.yaml: 

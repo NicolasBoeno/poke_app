@@ -1,0 +1,10 @@
+^C:\USERS\NICOLAS\DESKTOP\ESTUDOS CODIGOS\FLUTTER\POKEMON_APP\BUILD\WINDOWS\X64\CMAKEFILES\9909C6DA61126E1E8ED84C6BCAEB08E1\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
