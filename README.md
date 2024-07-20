@@ -1,6 +1,6 @@
-# flutter_application_test
+# Flutter
 
-A new Flutter project.
+Project Pokemon Search
 
 ## Getting Started
 
